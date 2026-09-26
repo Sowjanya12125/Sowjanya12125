@@ -24,7 +24,7 @@
 *(Edit this row down to only the tools you'd want to be asked about in an interview.)*
 
 ## telemetry
-![telemetry](https://raw.githubusercontent.com/Sowjanya12125/Sowjanya12125/main/telemetry.svg)
+   ![telemetry](https://raw.githubusercontent.com/Sowjanya12125/Sowjanya12125/main/telemetry.svg)
 
 ## shipping velocity
 ![shipping velocity](https://github-readme-activity-graph.vercel.app/graph?username=Sowjanya12125&theme=github-compact&hide_border=true&area=true)
